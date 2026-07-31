@@ -1,0 +1,5 @@
+c Example cnf. An example solution is 1F 2T 3A where A is ambiguous.
+p cnf 3 3
+1 2 0
+-1 3 0
+-1 -3 0
