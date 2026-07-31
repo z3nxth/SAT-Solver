@@ -3,7 +3,7 @@
 
 ---
 (WRITEUP IN PROGRESS)\
-Please see [my notes](https://iftekhar.rocks/satsolver.pdf).
+Please see [these notes](https://iftekhar.rocks/satsolver.pdf) (or try [this link](https://files.catbox.moe/csvgoz.pdf))
 
 ---
 
